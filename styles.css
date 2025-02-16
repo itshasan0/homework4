@@ -1,0 +1,13 @@
+body {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#coordinates {
+    font-size: 30px;
+}
